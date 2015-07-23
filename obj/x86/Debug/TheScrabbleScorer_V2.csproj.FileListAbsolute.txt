@@ -1,0 +1,11 @@
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\bin\Debug\TheScrabbleScorer_V2.exe
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\bin\Debug\TheScrabbleScorer_V2.pdb
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\MainWindow.baml
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\MainWindow.g.cs
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\App.g.cs
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2_MarkupCompile.cache
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2.g.resources
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2.Properties.Resources.resources
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2.csproj.GenerateResource.Cache
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2.exe
+c:\users\michael.biggs\documents\visual studio 2010\Projects\TheScrabbleScorer_V2\TheScrabbleScorer_V2\obj\x86\Debug\TheScrabbleScorer_V2.pdb
